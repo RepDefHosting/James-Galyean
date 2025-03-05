@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: James Galyean
+jobTitle: Co-Founder of Restoration Project Foundation
+location: Anderson, SC
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/james-galyean-co-founder-of-restoration-project-foundation.jpg
+  alt: James Galyean – Co-Founder of Restoration Project Foundation
+siteUrl: https://www.jamesgalyean.net/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/james.galyean.3
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/james-galyean-63127b21/
     label: Visit
     show: true
   pinterest:

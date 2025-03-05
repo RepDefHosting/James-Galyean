@@ -3,9 +3,12 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Mr. Galyean founded the education management organization (EMO)
+  Reason & Republic in 2018, a program for various academic programs. The EMO
+  oversees SC Preparatory and SC Leadership, online programs supporting sixth
+  through 12th grade students. He also has experience in charter programs based
+  on the classical model, school choice issues, education policy, and charter
+  school law.
 published: true
 schemaType: WebPage
 header: Blog
